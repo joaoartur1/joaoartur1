@@ -1,8 +1,13 @@
-<h1 align="center"> 👨‍💻João Artur</h1>
+<h1 align="center"> 👨‍💻 João Artur</h1>
 
 <p align="center">
-  **Computer Engineer** | **Fullstack Developer** | **Data Analyst**
-  Hi! I'm João Artur, a technology professional passionate about software quality and web development.
+  <strong>Computer Engineer</strong> | 
+  <strong>Fullstack Developer</strong> | 
+  <strong>Data Analyst</strong>
+</p>
+
+<p align="center">
+  Hi! I'm João Artur, a technology professional passionate about software quality, data analysis, and web & mobile development.
 </p>
 
 <p align="right">
@@ -11,30 +16,29 @@
 
 ---
 
-### 👨‍💻 Sobre mim
-- 🎓 Graduando em Engenharia da Computação 
-- 📱 Focado em **Flutter e desenvolvimento de apps**  
-- 💻 Interesse em **sistemas, redes e software**  
-- 🚀 Sempre buscando aprender mais
+### 👨‍💻 About Me
+- 🎓 Undergraduate student in Computer Engineering  
+- 📱 Focused on **Flutter and mobile app development**  
+- 💻 Interested in **software engineering, systems, and networks**  
+- 🚀 Always eager to learn and grow professionally  
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,git,github,typescript,react,php" />
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Statistics
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoartur1&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
 
-
-### 📫 Onde me encontrar
+### 📫 Contact
 - 📧 Email: **joaoarturti20@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/joao-artur-080291243**
 - 💻 GitHub: **https://github.com/joaoartur1**
@@ -42,5 +46,5 @@
 ---
 
 <p align="center">
-  ✨ “Evoluindo um commit de cada vez” ✨
+  ✨ “Evolving one commit at a time” ✨
 </p>
