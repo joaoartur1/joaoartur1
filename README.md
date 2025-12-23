@@ -1,7 +1,8 @@
-<h1 align="right"> 👨‍💻João Artur</h1>
+<h1 align="center"> 👨‍💻João Artur</h1>
 
-<p align="right">
-  Computer Engineer | Fullstack Developer | Data Analyst
+<p align="center">
+  **Computer Engineer** | **Fullstack Developer** | **Data Analyst**
+  Hi! I'm João Artur, a technology professional passionate about software quality and web development.
 </p>
 
 <p align="right">
@@ -20,7 +21,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,git,github,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,git,github,typescript,react,php" />
 </p>
 
 ---
