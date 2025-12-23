@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, eu sou João Artur</h1>
+<h1 align="center"> 👨‍💻João Artur</h1>
 
 <p align="center">
-  Estudante de Tecnologia • Desenvolvedor em formação • Apaixonado por programação 🚀
+  Computer Engineer • Fullstack Developer • Apaixonado por programação 🚀
 </p>
 
 <p align="center">
@@ -20,14 +20,13 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,git,github,html,css,php" />
 </p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoartur1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoartur1&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
