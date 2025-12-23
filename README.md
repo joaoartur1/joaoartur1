@@ -1,17 +1,17 @@
-<h1 align="center"> 👨‍💻João Artur</h1>
+<h1 align="right"> 👨‍💻João Artur</h1>
 
-<p align="center">
-  Computer Engineer • Fullstack Developer • Apaixonado por programação 🚀
+<p align="right">
+  Computer Engineer | Fullstack Developer | Data Analyst
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=joaoartur1&color=blue" alt="Profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
-- 🎓 Estudando programação e tecnologia  
+- 🎓 Graduando em Engenharia da Computação 
 - 📱 Focado em **Flutter e desenvolvimento de apps**  
 - 💻 Interesse em **sistemas, redes e software**  
 - 🚀 Sempre buscando aprender mais
