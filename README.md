@@ -33,12 +33,6 @@
 
 ---
 
-### 🔥 Sequência de commits
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoartur1&theme=dracula"/>
-</p>
-
----
 
 ### 📫 Onde me encontrar
 - 📧 Email: **joaoarturti20@gmail.com**
