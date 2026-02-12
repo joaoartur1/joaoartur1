@@ -26,17 +26,12 @@
 
 ### 🛠️ Technologies & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,git,github,typescript,react,php" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,,git,github,typescript,,php" />
 </p>
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoartur1&layout=compact&langs_count=7&theme=dracula"/>
-</p>
 
----
 
 ### 📫 Contact
 - 📧 Email: **joaoarturti20@gmail.com**
