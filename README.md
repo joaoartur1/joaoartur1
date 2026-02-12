@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Computer Engineer</strong> | 
   <strong>Fullstack Developer</strong> | 
-  <strong>Data Analyst</strong>
+  <strong>Mobile Developer</strong>
 </p>
 
 <p align="center">
